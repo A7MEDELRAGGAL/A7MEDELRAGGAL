@@ -66,6 +66,41 @@
 
 ---
 
+## 🖥️ Quick Terminal
+
+```bash
+$ whoami
+Ahmed El-Raggal — Information Security Analyst · IT Developer · Tech Instructor
+
+$ cat ./focus.txt
+Offensive Security · Network Infrastructure · AI & Computer Vision · IoT
+
+$ ./status --availability
+[✓] Open to full-time InfoSec / SOC / Network Security roles (Remote & On-site)
+
+$ echo $MISSION
+"Breaking systems so they can't be broken — and building tech that gives sight to the blind."
+
+$ ls ./certs | wc -l
+9+   # CCNA · CCNP · CyberOps · DevNet · Fortinet · HCIA-AI · NVIDIA Gen-AI ...
+```
+
+---
+
+## ☠️ Boot Sequence
+
+```bash
+root@a7med:~# systemctl start brain.service
+[  OK  ] Mounting /dev/curiosity ............ done
+[  OK  ] Loading kernel module: infosec.ko .. done
+[  OK  ] Starting coffee.service ............ done
+[  OK  ] Privilege escalation: student -> analyst
+root@a7med:~# ./exploit --target "your next hard problem"
+[✓] Shell acquired. Welcome to my GitHub.
+```
+
+---
+
 ## 💚 Tech for Good
 
 > *"How can AI become eyes for those who lost their sight?"*
@@ -189,6 +224,22 @@ My signature mission is **assistive technology for the blind & visually impaired
 
 ---
 
+## 🎮 Flag Hunter — My Mini Game
+
+<p align="center">
+  <a href="https://a7medelraggal.github.io/A7MEDELRAGGAL/game.html">
+    <img src="https://raw.githubusercontent.com/A7MEDELRAGGAL/A7MEDELRAGGAL/main/preview.svg" alt="Flag Hunter animated preview" width="600"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://a7medelraggal.github.io/A7MEDELRAGGAL/game.html">
+    <img src="https://img.shields.io/badge/🎮-PLAY_FLAG_HUNTER-00c896?style=for-the-badge&labelColor=0b1f14" alt="Play Game"/>
+  </a>
+</p>
+<p align="center"><i>A neon snake game I coded from scratch — grab the 🚩 flags, don't crash into yourself. Keyboard + mobile supported. (GitHub blocks JS inside a README, so the preview animates here and the real game opens in its own tab.)</i></p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -200,6 +251,11 @@ My signature mission is **assistive technology for the blind & visually impaired
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=A7MEDELRAGGAL&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+</p>
+
+### 🗓️ Contribution Heatmap
+<p align="center">
+  <img src="https://ghchart.rshah.org/00c896/A7MEDELRAGGAL" alt="Contribution Heatmap"/>
 </p>
 
 ### 🐍 Contribution Snake
