@@ -243,12 +243,10 @@ My signature mission is **assistive technology for the blind & visually impaired
 
 ## <img src="https://img.icons8.com/color/32/github.png" width="26"/> GitHub Stats
 
-<table>
-  <tr>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=A7MEDELRAGGAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=00c896&card_width=440" alt="GitHub Stats"/></td>
-    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7MEDELRAGGAL&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Langs"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A7MEDELRAGGAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=00c896" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7MEDELRAGGAL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="195"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A7MEDELRAGGAL&theme=tokyonight&hide_border=true&ring=00c896&currStreakLabel=00c896" alt="Streak" width="620"/>

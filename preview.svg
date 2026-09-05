@@ -21,7 +21,7 @@
   <rect x="40" y="86" width="520" height="176" rx="12" fill="url(#grid)"/>
 
   <!-- flag -->
-  <text x="470" y="185" font-size="26" text-anchor="middle">🚩
+  <text x="470" y="212" font-size="26" text-anchor="middle">🚩
     <animate attributeName="opacity" values="1;0.4;1" dur="1s" repeatCount="indefinite"/>
   </text>
 
@@ -29,11 +29,11 @@
   <g filter="url(#glow)">
     <animateTransform attributeName="transform" type="translate"
       values="0 0; 360 0; 0 0" keyTimes="0;0.5;1" dur="6s" repeatCount="indefinite"/>
-    <rect x="70" y="168" width="22" height="22" rx="6" fill="#38e0b0"/>
-    <rect x="46" y="168" width="22" height="22" rx="6" fill="#00c896" opacity="0.9"/>
-    <rect x="22" y="168" width="22" height="22" rx="6" fill="#00c896" opacity="0.7"/>
-    <rect x="-2" y="168" width="22" height="22" rx="6" fill="#00c896" opacity="0.5"/>
-    <rect x="-26" y="168" width="22" height="22" rx="6" fill="#00c896" opacity="0.35"/>
+    <rect x="150" y="150" width="22" height="22" rx="6" fill="#38e0b0"/>
+    <rect x="126" y="150" width="22" height="22" rx="6" fill="#00c896" opacity="0.9"/>
+    <rect x="102" y="150" width="22" height="22" rx="6" fill="#00c896" opacity="0.7"/>
+    <rect x="78" y="150" width="22" height="22" rx="6" fill="#00c896" opacity="0.5"/>
+    <rect x="54" y="150" width="22" height="22" rx="6" fill="#00c896" opacity="0.35"/>
   </g>
 
   <text x="300" y="300" text-anchor="middle" font-size="15" font-weight="700" fill="#00c896">▶ CLICK TO PLAY
