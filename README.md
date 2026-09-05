@@ -1,10 +1,8 @@
 <p align="center">
   <a href="https://a7medelraggal.github.io/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Ahmed%20El-Raggal&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=IT%20Developer%20%7C%20InfoSec%20Analyst%20%7C%20AI%20%26%20Cybersecurity%20%7C%20IoT&descAlignY=62&descAlign=50&descSize=17&descColor=67e8f9&animation=fadeIn" width="100%" alt="Header Banner"/>
+    <img src="https://raw.githubusercontent.com/A7MEDELRAGGAL/A7MEDELRAGGAL/main/banner.svg" width="100%" alt="Header Banner"/>
   </a>
 </p>
-
-<h3 align="center">the guy who breaks things so they can't be broken ↬</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00C896&center=true&vCenter=true&width=640&height=40&lines=IT+Developer+%26+Tech+Instructor;Information+Security+Analyst;Penetration+Tester+%7C+Ethical+Hacker;AI+%26+Computer+Vision+%7C+YOLOv8;Cybersecurity+%26+Networks+%7C+CCNA%2C+CyberOps%2C+Fortinet;IoT+%26+Smart+Systems;Tech-for-Good+Builder" alt="Typing SVG" />
@@ -76,7 +74,7 @@ $ cat ./focus.txt
 Offensive Security · Network Infrastructure · AI & Computer Vision · IoT
 
 $ ./status --availability
-[✓] Open to full-time InfoSec / SOC / Network Security roles (Remote & On-site)
+[OK] Open to full-time InfoSec / SOC / Network Security roles (Remote & On-site)
 
 $ echo $MISSION
 "Breaking systems so they can't be broken — and building tech that gives sight to the blind."
@@ -96,7 +94,7 @@ root@a7med:~# systemctl start brain.service
 [  OK  ] Starting coffee.service ............ done
 [  OK  ] Privilege escalation: student -> analyst
 root@a7med:~# ./exploit --target "your next hard problem"
-[✓] Shell acquired. Welcome to my GitHub.
+[OK] Shell acquired. Welcome to my GitHub.
 ```
 
 ---
@@ -111,7 +109,7 @@ My signature mission is **assistive technology for the blind & visually impaired
   <tr>
     <td width="50%" valign="top">
       <p><strong>Egyptian Currency Recognition</strong><br/>
-      YOLOv8-Nano model trained on <strong>10,000+</strong> currency images → <strong>99.8% precision · 100% recall</strong>, with a zero-dependency offline <strong>Text-to-Speech</strong> engine and live OpenCV GUI.</p>
+      YOLOv8-Nano model trained on <strong>10,000+</strong> currency images, reaching <strong>99.8% precision · 100% recall</strong>, with a zero-dependency offline <strong>Text-to-Speech</strong> engine and live OpenCV GUI.</p>
     </td>
     <td width="50%" valign="top">
       <p><strong>Smart Assistive Cane</strong><br/>
@@ -236,7 +234,7 @@ My signature mission is **assistive technology for the blind & visually impaired
 </p>
 <p align="center">
   <a href="https://a7medelraggal.github.io/A7MEDELRAGGAL/game.html">
-    <img src="https://img.shields.io/badge/▶_PLAY_FLAG_HUNTER-00c896?style=for-the-badge&labelColor=0b1f14" alt="Play Game"/>
+    <img src="https://img.shields.io/badge/PLAY_FLAG_HUNTER-00c896?style=for-the-badge&labelColor=0b1f14" alt="Play Game"/>
   </a>
 </p>
 <p align="center"><i>A neon snake game I coded from scratch — grab the flags, don't crash into yourself. Keyboard + mobile supported. (GitHub blocks JS inside a README, so the preview animates here and the real game opens in its own tab.)</i></p>
@@ -245,10 +243,13 @@ My signature mission is **assistive technology for the blind & visually impaired
 
 ## <img src="https://img.icons8.com/color/32/github.png" width="26"/> GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7MEDELRAGGAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=00c896" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7MEDELRAGGAL&layout=donut&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5" alt="Top Langs" height="170"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=A7MEDELRAGGAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=00c896&card_width=440" alt="GitHub Stats"/></td>
+    <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7MEDELRAGGAL&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Langs"/></td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=A7MEDELRAGGAL&theme=tokyonight&hide_border=true&ring=00c896&currStreakLabel=00c896" alt="Streak" width="620"/>
 </p>
@@ -256,26 +257,16 @@ My signature mission is **assistive technology for the blind & visually impaired
   <img src="https://github-profile-trophy.vercel.app/?username=A7MEDELRAGGAL&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
 </p>
 
-### <img src="https://img.icons8.com/color/24/calendar.png" width="20"/> Contribution Heatmap
-<p align="center">
-  <img src="https://ghchart.rshah.org/00c896/A7MEDELRAGGAL" alt="Contribution Heatmap"/>
-</p>
-
 ### <img src="https://img.icons8.com/color/24/snake.png" width="20"/> Contribution Snake
 <p align="center">
   <img src="https://github.com/A7MEDELRAGGAL/A7MEDELRAGGAL/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
-
-### <img src="https://img.icons8.com/color/24/activity.png" width="20"/> Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A7MEDELRAGGAL&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=00c896&point=ffffff&area=true&area_color=00c896" alt="Contribution Activity Graph"/>
 </p>
 
 ---
 
 <p align="center">
   <a href="https://a7medelraggal.github.io/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20stopping%20by%20!&fontSize=42&fontColor=ffffff&fontAlignY=68&fontAlign=50" width="100%" alt="Footer Banner"/>
+    <img src="https://raw.githubusercontent.com/A7MEDELRAGGAL/A7MEDELRAGGAL/main/banner-footer.svg" width="100%" alt="Footer Banner"/>
   </a>
 </p>
 
