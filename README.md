@@ -202,6 +202,11 @@ My signature mission is **assistive technology for the blind & visually impaired
   <img src="https://github-profile-trophy.vercel.app/?username=A7MEDELRAGGAL&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
 </p>
 
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/A7MEDELRAGGAL/A7MEDELRAGGAL/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
 ### 📉 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A7MEDELRAGGAL&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=00c896&point=ffffff&area=true&area_color=00c896" alt="Contribution Activity Graph"/>
