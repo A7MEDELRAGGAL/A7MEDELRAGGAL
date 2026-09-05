@@ -244,15 +244,15 @@ My signature mission is **assistive technology for the blind & visually impaired
 ## <img src="https://img.icons8.com/color/32/github.png" width="26"/> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A7MEDELRAGGAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=00c896" alt="GitHub Stats" height="195"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A7MEDELRAGGAL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="195"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=A7MEDELRAGGAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=00c896" alt="GitHub Stats" height="195"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=A7MEDELRAGGAL&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="195"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=A7MEDELRAGGAL&theme=tokyonight&hide_border=true&ring=00c896&currStreakLabel=00c896" alt="Streak" width="620"/>
+  <img src="https://streak-stats.demolab.com/?user=A7MEDELRAGGAL&theme=tokyonight&hide_border=true&ring=00c896&currStreakLabel=00c896" alt="Streak" width="620"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=A7MEDELRAGGAL&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy-sable.vercel.app/?username=A7MEDELRAGGAL&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
 </p>
 
 ### <img src="https://img.icons8.com/color/24/snake.png" width="20"/> Contribution Snake
