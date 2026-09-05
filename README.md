@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://a7medelraggal.github.io/">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Ahmed%20El-Raggal&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=IT%20Developer%20%25E2%2594%2582%20InfoSec%20Analyst%20%25E2%2594%2582%20AI%20%2526%20Cybersecurity%20%25E2%2594%2582%20IoT&descAlignY=62&descAlign=50&descSize=17&descColor=d7e1ec&animation=fadeIn" width="100%" alt="Header Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Ahmed%20El-Raggal&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=IT%20Developer%20%7C%20InfoSec%20Analyst%20%7C%20AI%20%26%20Cybersecurity%20%7C%20IoT&descAlignY=62&descAlign=50&descSize=17&descColor=67e8f9&animation=fadeIn" width="100%" alt="Header Banner"/>
   </a>
 </p>
 
@@ -15,23 +15,23 @@
   <a href="https://www.linkedin.com/in/ira3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/A7MEDELRAGGAL" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:ahmedxd444@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/📍-Alexandria%2C%20Egypt-1f6feb?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/Alexandria%2C%20Egypt-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ira3/">
-    <img src="https://img.shields.io/badge/🟢-OPEN_TO_WORK-Information_Security_·_SOC_·_Network_Security-00c853?style=for-the-badge&labelColor=0b1f14" alt="Open to Work"/>
+    <img src="https://img.shields.io/badge/OPEN_TO_WORK-Information_Security_%C2%B7_SOC_%C2%B7_Network_Security-00c853?style=for-the-badge&labelColor=0b1f14" alt="Open to Work"/>
   </a>
 </p>
 
 ---
 
-## 📈 By the Numbers
+## <img src="https://img.icons8.com/color/32/bar-chart.png" width="26"/> By the Numbers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Followers-5,658-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Post_Reach-86K%2B%20impressions-ff6b35?style=for-the-badge" alt="Reach"/>
-  <img src="https://img.shields.io/badge/Model_Precision-99.8%25%20·%20Recall_100%25-00c896?style=for-the-badge" alt="Precision"/>
+  <img src="https://img.shields.io/badge/LinkedIn_Followers-5,658-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Post_Reach-86K%2B_impressions-ff6b35?style=for-the-badge" alt="Reach"/>
+  <img src="https://img.shields.io/badge/Model_Precision-99.8%25_%C2%B7_Recall_100%25-00c896?style=for-the-badge" alt="Precision"/>
   <img src="https://img.shields.io/badge/Certifications-9%2B-e17055?style=for-the-badge" alt="Certs"/>
   <img src="https://img.shields.io/badge/Students_Trained-30%2B-6c5ce7?style=for-the-badge" alt="Students"/>
   <img src="https://img.shields.io/badge/Freelance_Wins-20%2B-fd79a8?style=for-the-badge" alt="Freelance"/>
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛡️ About Me
+## <img src="https://img.icons8.com/color/32/shield.png" width="26"/> About Me
 
 <table>
   <tr>
@@ -47,18 +47,18 @@
       <p>I'm an <strong>Information Security Analyst</strong>, <strong>IT Developer</strong> and <strong>Tech Instructor</strong> whose foundation is network infrastructure, penetration testing, risk management and secure application development — built through hands-on remote programs with <strong>DEPI, ITI, NTI, Cyberx World, ITIDA</strong> and more.</p>
       <p>I run vulnerability assessments, stand up <strong>Secure SDLC</strong> workflows, and design networks that don't go down when you need them. Toss in <strong>Python, cryptography and YOLOv8</strong> on the side, and you get someone who likes digging into how systems <em>actually</em> work — then making them safer.</p>
       <ul>
-        <li>🔭 Currently building <strong>offensive-security + AI</strong> projects</li>
-        <li>🌱 Seeking a <strong>full-time InfoSec / SOC / Network Security</strong> role</li>
-        <li>👯 Open to collaborating on security tooling &amp; open source</li>
-        <li>💬 Ask me about <strong>Pen-Testing · CCNA/CCNP · SIEM/SOC · YOLOv8 · IoT</strong></li>
-        <li>✍️ I share <strong>security-awareness &amp; AI</strong> content in Arabic &amp; English</li>
+        <li><img src="https://img.icons8.com/color/24/telescope.png" width="18"/> Currently building <strong>offensive-security + AI</strong> projects</li>
+        <li><img src="https://img.icons8.com/color/24/search.png" width="18"/> Seeking a <strong>full-time InfoSec / SOC / Network Security</strong> role</li>
+        <li><img src="https://img.icons8.com/color/24/group.png" width="18"/> Open to collaborating on security tooling &amp; open source</li>
+        <li><img src="https://img.icons8.com/color/24/chat.png" width="18"/> Ask me about <strong>Pen-Testing · CCNA/CCNP · SIEM/SOC · YOLOv8 · IoT</strong></li>
+        <li><img src="https://img.icons8.com/color/24/pencil.png" width="18"/> I share <strong>security-awareness &amp; AI</strong> content in Arabic &amp; English</li>
       </ul>
     </td>
     <td width="40%" valign="top" align="center">
-      <img src="https://img.shields.io/badge/🎓-B.Sc%20IT%20·%20BATU-6c5ce7?style=for-the-badge" alt="Education"/><br/><br/>
+      <img src="https://img.shields.io/badge/B.Sc_IT_%C2%B7_BATU-6c5ce7?style=for-the-badge" alt="Education"/><br/><br/>
       <img src="https://img.shields.io/badge/GPA-3.23%20%2F%204.00-00b894?style=for-the-badge" alt="GPA"/><br/><br/>
-      <img src="https://img.shields.io/badge/🏛️-DEPI%20·%20ITI%20·%20NTI-0984e3?style=for-the-badge" alt="Programs"/><br/><br/>
-      <img src="https://img.shields.io/badge/🗣️-Arabic%20·%20English-fd79a8?style=for-the-badge" alt="Languages"/><br/><br/>
+      <img src="https://img.shields.io/badge/DEPI_%C2%B7_ITI_%C2%B7_NTI-0984e3?style=for-the-badge" alt="Programs"/><br/><br/>
+      <img src="https://img.shields.io/badge/Arabic_%C2%B7_English-fd79a8?style=for-the-badge" alt="Languages"/><br/><br/>
       <img src="https://komarev.com/ghpvc/?username=A7MEDELRAGGAL&style=for-the-badge&color=00c896&label=PROFILE+VIEWS" alt="Profile views"/>
     </td>
   </tr>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🖥️ Quick Terminal
+## <img src="https://img.icons8.com/color/32/console.png" width="26"/> Quick Terminal
 
 ```bash
 $ whoami
@@ -87,7 +87,7 @@ $ ls ./certs | wc -l
 
 ---
 
-## ☠️ Boot Sequence
+## <img src="https://img.icons8.com/color/32/restart.png" width="26"/> Boot Sequence
 
 ```bash
 root@a7med:~# systemctl start brain.service
@@ -101,7 +101,7 @@ root@a7med:~# ./exploit --target "your next hard problem"
 
 ---
 
-## 💚 Tech for Good
+## <img src="https://img.icons8.com/color/32/blind.png" width="26"/> Tech for Good
 
 > *"How can AI become eyes for those who lost their sight?"*
 
@@ -110,11 +110,11 @@ My signature mission is **assistive technology for the blind & visually impaired
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p>🪙 <strong>Egyptian Currency Recognition</strong><br/>
+      <p><strong>Egyptian Currency Recognition</strong><br/>
       YOLOv8-Nano model trained on <strong>10,000+</strong> currency images → <strong>99.8% precision · 100% recall</strong>, with a zero-dependency offline <strong>Text-to-Speech</strong> engine and live OpenCV GUI.</p>
     </td>
     <td width="50%" valign="top">
-      <p>🦯 <strong>Smart Assistive Cane</strong><br/>
+      <p><strong>Smart Assistive Cane</strong><br/>
       <strong>ESP32</strong> stick with ultrasonic depth sensing, GPS tracking, color & temperature detection, automated <strong>SOS</strong> and a custom companion mobile app.</p>
     </td>
   </tr>
@@ -122,14 +122,14 @@ My signature mission is **assistive technology for the blind & visually impaired
 
 ---
 
-## 🧰 Tech Toolbox
+## <img src="https://img.icons8.com/color/32/toolbox.png" width="26"/> Tech Toolbox
 
-### 💻 Programming & Frameworks
+### <img src="https://img.icons8.com/color/24/code.png" width="20"/> Programming & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,cpp,c,java,js,html,css,php,mysql,git,github,aws,linux,bash,docker,pytorch,tensorflow,jupyter,vscode&perline=10" alt="Programming Skills"/>
 </p>
 
-### 🔐 Security & Offensive Tools
+### <img src="https://img.icons8.com/color/24/shield.png" width="20"/> Security & Offensive Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Kali%20Linux-557833?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali"/>
   <img src="https://img.shields.io/badge/Nmap-111?style=for-the-badge&logo=nmap&logoColor=red" alt="Nmap"/>
@@ -141,30 +141,30 @@ My signature mission is **assistive technology for the blind & visually impaired
   <img src="https://img.shields.io/badge/OWASP%20Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP"/>
 </p>
 
-### 🌐 Networking & Cloud
+### <img src="https://img.icons8.com/color/24/network.png" width="20"/> Networking & Cloud
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
   <img src="https://img.shields.io/badge/CCNP-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNP"/>
   <img src="https://img.shields.io/badge/CyberOps-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="CyberOps"/>
   <img src="https://img.shields.io/badge/DevNet-00BCEB?style=for-the-badge&logo=cisco&logoColor=white" alt="DevNet"/>
   <img src="https://img.shields.io/badge/FortiGate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" alt="Fortinet"/>
-  <img src="https://img.shields.io/badge/VLAN%20·%20OSPF%20·%20ACL%20·%20HSRP-1f6feb?style=for-the-badge" alt="Net Concepts"/>
-  <img src="https://img.shields.io/badge/Cisco%20PT%20·%20GNS3-252f3f?style=for-the-badge" alt="Simulators"/>
+  <img src="https://img.shields.io/badge/VLAN%20%C2%B7%20OSPF%20%C2%B7%20ACL%20%C2%B7%20HSRP-1f6feb?style=for-the-badge" alt="Net Concepts"/>
+  <img src="https://img.shields.io/badge/Cisco%20PT%20%C2%B7%20GNS3-252f3f?style=for-the-badge" alt="Simulators"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
 </p>
 
-### 🤖 AI · CV · IoT
+### <img src="https://img.icons8.com/color/24/brain.png" width="20"/> AI · CV · IoT
 <p align="center">
   <img src="https://img.shields.io/badge/YOLOv8-104B00?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLO"/>
   <img src="https://img.shields.io/badge/Computer%20Vision-00C896?style=for-the-badge" alt="CV"/>
-  <img src="https://img.shields.io/badge/LLMs%20·%20Prompt%20Eng-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="LLM"/>
-  <img src="https://img.shields.io/badge/ESP32%20·%20Embedded-00979D?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/LLMs%20%C2%B7%20Prompt%20Eng-76b900?style=for-the-badge&logo=nvidia&logoColor=white" alt="LLM"/>
+  <img src="https://img.shields.io/badge/ESP32%20%C2%B7%20Embedded-00979D?style=for-the-badge&logo=espressif&logoColor=white" alt="IoT"/>
   <img src="https://img.shields.io/badge/Cryptography-6c5ce7?style=for-the-badge" alt="Crypto"/>
 </p>
 
 ---
 
-## 🎓 Certifications
+## <img src="https://img.icons8.com/color/32/certificate.png" width="26"/> Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/CCNA-Cisco-1f6feb?style=flat-square&logo=cisco&logoColor=white" alt="CCNA"/>
@@ -180,37 +180,40 @@ My signature mission is **assistive technology for the blind & visually impaired
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://img.icons8.com/color/32/rocket.png" width="26"/> Featured Projects
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🪙 [**Egyptian Currency Recognition**](https://github.com/A7MEDELRAGGAL/Egyptian-Currency-System/) | `Python` `YOLOv8` `TTS` | **99.8% precision · 100% recall** · 10k+ images · offline voice for the blind |
-| 🦯 **Smart Assistive Cane** | `C++` `ESP32` `IoT` | Ultrasonic depth · GPS · color & temp sensing · SOS · mobile app |
-| 🛒 [**BuggedCart**](https://github.com/A7MEDELRAGGAL/buggedcart) | `Pen-Testing` `OWASP` | Vulnerable app simulating OWASP Top 10 + full Secure SDLC |
-| 🔑 [**Password Analyzer & Secure Storage**](https://github.com/A7MEDELRAGGAL/Password-Strength-Analyser-Tool) | `Flask` `Crypto` | SHA-256 hashing + dynamic salting auth backend |
-| 🌐 [**Multi-Campus Network (DEPI)**](https://github.com/A7MEDELRAGGAL/DEPI-Final-Project) | `CCNA` `OSPF` | Redundant multi-campus design · VLANs · HSRP · EtherChannel · ACLs |
-| 🔥 [**Real-Time Fire Detection**](https://github.com/A7MEDELRAGGAL/Fire-Detection-by-yolo) | `AI` `YOLO` | High-speed video fire alerting model |
-| 🎨 [**My Portfolio (this site)**](https://a7medelraggal.github.io/) | `HTML` `CSS` `JS` | Hand-built personal portfolio — no templates, layer by layer |
-| 💧 **IoT Smart Water Tank** | `IoT` `Sensors` | Level, volume, purity & salinity + mobile control |
+| [**Egyptian Currency Recognition**](https://github.com/A7MEDELRAGGAL/Egyptian-Currency-System/) | `Python` `YOLOv8` `TTS` | **99.8% precision · 100% recall** · 10k+ images · offline voice for the blind |
+| **Smart Assistive Cane** | `C++` `ESP32` `IoT` | Ultrasonic depth · GPS · color & temp sensing · SOS · mobile app |
+| [**BuggedCart**](https://github.com/A7MEDELRAGGAL/buggedcart) | `Pen-Testing` `OWASP` | Vulnerable app simulating OWASP Top 10 + full Secure SDLC |
+| [**Password Analyzer & Secure Storage**](https://github.com/A7MEDELRAGGAL/Password-Strength-Analyser-Tool) | `Flask` `Crypto` | SHA-256 hashing + dynamic salting auth backend |
+| [**Multi-Campus Network (DEPI)**](https://github.com/A7MEDELRAGGAL/DEPI-Final-Project) | `CCNA` `OSPF` | Redundant multi-campus design · VLANs · HSRP · EtherChannel · ACLs |
+| [**Real-Time Fire Detection**](https://github.com/A7MEDELRAGGAL/Fire-Detection-by-yolo) | `AI` `YOLO` | High-speed video fire alerting model |
+| [**My Portfolio (this site)**](https://a7medelraggal.github.io/) | `HTML` `CSS` `JS` | Hand-built personal portfolio — no templates, layer by layer |
+| **IoT Smart Water Tank** | `IoT` `Sensors` | Level, volume, purity & salinity + mobile control |
 
 ---
 
-## 💼 Experience Snapshot
+## <img src="https://img.icons8.com/color/32/briefcase.png" width="26"/> Experience
 
-| Role | Organization | Focus |
-|:-----|:-------------|:------|
-| 🛡️ InfoSec Analyst Intern | **DEPI** | SIEM monitoring · vuln assessments · IR workflows |
-| 🎓 Cyber Security Trainee | **ITI** | 8-month CCNA & Cloud · eJPT prep · 20+ web challenges |
-| 🤖 Generative AI Trainee | **ITI** | LLMs · prompt engineering · 3+ AI apps deployed |
-| 🌐 Network Security Intern | **NTI** | SOC ops · resolved 15+ incidents |
-| 🕵️ Ethical Hacking Intern | **Cyberx World** | Pen-tests across 5+ networks |
-| 💸 Freelancing Trainee | **ITIDA** | Won 20+ freelance technical contracts |
-| ☁️ AWS Cloud Intern | **Manara** | Architecture & pricing evaluation |
-| 👨‍🏫 IT Instructor | **Freelance** | Trained 30+ students · Python, Java, networking |
+| Role | Organization | Period | Focus |
+|:-----|:-------------|:-------|:------|
+| InfoSec Analyst Intern | **DEPI** | 06/2025 – 03/2026 | SIEM monitoring · vuln assessments · IR workflows |
+| Cyber Security Trainee | **ITI** | 05/2025 – 01/2026 | 8-month CCNA & Cloud · eJPT prep · 20+ web challenges |
+| Generative AI Trainee | **ITI** | 05/2025 – 01/2026 | LLMs · prompt engineering · 3+ AI apps deployed |
+| Network Security Intern | **NTI** | 08/2025 – 09/2025 | SOC ops · resolved 15+ incidents |
+| Freelancing Trainee | **ITIDA** | 05/2025 – 09/2025 | Won 20+ freelance technical contracts |
+| Ethical Hacking Intern | **Cyberx World** | 12/2024 – 02/2025 | Pen-tests across 5+ simulated networks |
+| Cybersecurity Bootcamps | **CyberTalents & EFEGlobal** | 10/2024 – 01/2025 | 15+ real-world challenges · incident handling |
+| Cisco Cybersecurity Engineer | **DEPI** | 03/2024 – 12/2024 | Switching/routing · managed 5+ access policies |
+| Artificial Intelligence Intern | **NTI** | 10/2024 – 12/2024 | Python · ML · Deep Learning · 2+ AI solutions |
+| AWS Cloud Computing Intern | **Manara** | 09/2024 – 12/2024 | Evaluated AWS architectures & pricing models |
+| IT Instructor | **Freelance** | 03/2024 – 07/2024 | Trained 30+ students · Python, Java, networking |
 
 ---
 
-## 🧭 Services I Offer
+## <img src="https://img.icons8.com/color/32/support.png" width="26"/> Services I Offer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity-00c896?style=flat-square" alt="Cybersecurity"/>
@@ -224,7 +227,7 @@ My signature mission is **assistive technology for the blind & visually impaired
 
 ---
 
-## 🎮 Flag Hunter — My Mini Game
+## <img src="https://img.icons8.com/color/32/joystick.png" width="26"/> Flag Hunter — My Mini Game
 
 <p align="center">
   <a href="https://a7medelraggal.github.io/A7MEDELRAGGAL/game.html">
@@ -233,14 +236,14 @@ My signature mission is **assistive technology for the blind & visually impaired
 </p>
 <p align="center">
   <a href="https://a7medelraggal.github.io/A7MEDELRAGGAL/game.html">
-    <img src="https://img.shields.io/badge/🎮-PLAY_FLAG_HUNTER-00c896?style=for-the-badge&labelColor=0b1f14" alt="Play Game"/>
+    <img src="https://img.shields.io/badge/▶_PLAY_FLAG_HUNTER-00c896?style=for-the-badge&labelColor=0b1f14" alt="Play Game"/>
   </a>
 </p>
-<p align="center"><i>A neon snake game I coded from scratch — grab the 🚩 flags, don't crash into yourself. Keyboard + mobile supported. (GitHub blocks JS inside a README, so the preview animates here and the real game opens in its own tab.)</i></p>
+<p align="center"><i>A neon snake game I coded from scratch — grab the flags, don't crash into yourself. Keyboard + mobile supported. (GitHub blocks JS inside a README, so the preview animates here and the real game opens in its own tab.)</i></p>
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://img.icons8.com/color/32/github.png" width="26"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=A7MEDELRAGGAL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&ring_color=00c896" alt="GitHub Stats" height="170"/>
@@ -253,17 +256,17 @@ My signature mission is **assistive technology for the blind & visually impaired
   <img src="https://github-profile-trophy.vercel.app/?username=A7MEDELRAGGAL&theme=discord&no-frame=true&column=7&margin-w=6&margin-h=6" alt="Trophies"/>
 </p>
 
-### 🗓️ Contribution Heatmap
+### <img src="https://img.icons8.com/color/24/calendar.png" width="20"/> Contribution Heatmap
 <p align="center">
   <img src="https://ghchart.rshah.org/00c896/A7MEDELRAGGAL" alt="Contribution Heatmap"/>
 </p>
 
-### 🐍 Contribution Snake
+### <img src="https://img.icons8.com/color/24/snake.png" width="20"/> Contribution Snake
 <p align="center">
   <img src="https://github.com/A7MEDELRAGGAL/A7MEDELRAGGAL/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
-### 📉 Contribution Activity Graph
+### <img src="https://img.icons8.com/color/24/activity.png" width="20"/> Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A7MEDELRAGGAL&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=ffffff&line=00c896&point=ffffff&area=true&area_color=00c896" alt="Contribution Activity Graph"/>
 </p>
@@ -276,4 +279,4 @@ My signature mission is **assistive technology for the blind & visually impaired
   </a>
 </p>
 
-<p align="center"><i>built by hand, layer by layer. 🛠️</i></p>
+<p align="center"><i>built by hand, layer by layer.</i></p>
